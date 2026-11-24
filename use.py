@@ -1,0 +1,7 @@
+a=eval(input('enter value : '))
+b=eval(input('enter value : '))
+print("addition is : ",a+b)
+print("substraction is : ",a-b)
+print("multiplication is : ",a*b)
+print("division is ",a/b)
+print("reminder ",a%b)
